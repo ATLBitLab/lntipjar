@@ -13,11 +13,11 @@
     "classnames": "^2.5.1",
     "confetti-react": "^2.6.0",
     "lnurl-pay": "^4.0.0",
-    "next": "15.3.1",
+    "next": "^15.5.9",
     "qrcode.react": "^4.2.0",
-    "react": "^19.0.0",
+    "react": "^19.2.3",
     "react-confetti": "^6.4.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.2.3"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
@@ -27,7 +27,7 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
-    "eslint-config-next": "15.3.1",
+    "eslint-config-next": "^15.5.9",
     "tailwindcss": "^4",
     "typescript": "^5"
   },
