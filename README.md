@@ -1,5 +1,7 @@
 # Lightning Tip Jar
 
+This project was made for a workshop and is not actively maintained. Archived for posteriority, use at your own risk.
+
 A simple web application that allows users to leave tips using the Bitcoin Lightning Network.
 
 ## Tech Stack
